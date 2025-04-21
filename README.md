@@ -6,6 +6,7 @@
 
 # Click [here](https://causal-machine-learning.github.io/kdd2025-workshop/) to visit the 3rd Workshop on Causal Inference and Machine Learning in Practice at KDD 2025 website
 
+
 # **Causal Inference and Machine Learning in Practice**: Use cases for Product, Brand, Policy and Beyond
 
 ## **Schedule**
